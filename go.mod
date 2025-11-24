@@ -1,3 +1,3 @@
 module order-bot
 
-go 1.21.10
+go 1.23.9
